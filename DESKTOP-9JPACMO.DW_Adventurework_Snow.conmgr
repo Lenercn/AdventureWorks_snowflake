@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-9JPACMO.DW_Adventurework_Snow"
+  DTS:DTSID="{5ECE6611-2AF0-4557-9C26-80D0C14BFE08}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-9JPACMO;Initial Catalog=DW_Adventurework_Snow;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-AdventureWorks_snowflake-{5ECE6611-2AF0-4557-9C26-80D0C14BFE08}DESKTOP-9JPACMO.DW_Adventurework_Snow;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
